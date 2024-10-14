@@ -1,0 +1,7 @@
+com\ilr\user\api\service\UserService.class
+com\ilr\user\api\UserApiApplication.class
+com\ilr\user\api\controller\ControllerUser.class
+com\ilr\user\api\repository\UserRepository.class
+com\ilr\user\api\model\Login.class
+com\ilr\user\api\model\User.class
+com\ilr\user\api\service\impl\UserServiceImpl.class
